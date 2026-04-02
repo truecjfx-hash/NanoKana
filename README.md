@@ -7,6 +7,7 @@
 ### Quick Start
 * **Recommended Tool**: Open **`NanoKana_6x8.bin`** (Raw Binary) with [YY-CHR](https://www.romhacking.net/utilities/119/) using **1BPP** format.
 * **Note**: Use `NanoKana_6x8.bmp` for visual preview or editing in pixel art software.
+* **Best Pairing**: For the best visual results, pair this font with **[MisakiGothic (美咲ゴシック)](https://littlelimit.net/misaki.htm)**.
 
 ---
 
