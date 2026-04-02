@@ -5,8 +5,8 @@
 ---
 
 ### Quick Start
-* **Recommended Tool**: Open `.bin` or `.bmp` files with **[YY-CHR](https://yychr.blogspot.com/)** (1BPP format).
-* **Best Pairing**: For the best visual results, pair this font with **[MisakiGothic (美咲ゴシック)](https://littlelimit.net/misaki.htm)**.
+* **Recommended Tool**: Open **`NanoKana_6x8.bin`** (Raw Binary) with [YY-CHR](https://www.romhacking.net/utilities/119/) using **1BPP** format.
+* **Note**: Use `NanoKana_6x8.bmp` for visual preview or editing in pixel art software.
 
 ---
 
