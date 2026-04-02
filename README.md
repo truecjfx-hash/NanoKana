@@ -25,7 +25,7 @@ I waive all copyright claims. You are free to use this font in any scenario:
 ---
 
 ### Sample Text
-
+![Test](https://raw.githubusercontent.com/truecjfx-hash/NanoKana/refs/heads/main/FontTest.png)
 ```text
 The quick brown fox jumps over the lazy dog. 
 NanoKana_6x8
